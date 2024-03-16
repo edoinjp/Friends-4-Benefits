@@ -70,6 +70,7 @@ Inspired by the need of wanting small services provided in a foreign country, ca
 ## Team Members
 - [Rashad Dupaty](https://www.linkedin.com/in/rashaddupaty/)
 - [Eduard Gurchiani](https://www.linkedin.com/in/eduard-gurchiani/)
+- [osama Suleiman](https://www.linkedin.com/in/osama-suleiman/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
